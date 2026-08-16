@@ -1,1 +1,2 @@
  inkoyone linux a termux 
+gwajin test2
